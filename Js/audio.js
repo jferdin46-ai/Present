@@ -8,8 +8,8 @@
 
     const cfg = window.BEYOND_CONFIG || {};
 
-    const MUSIC_PATH = cfg.musicPath || "Assets/Audio/ambient.mp3";
-    const SFX_PATH = cfg.sfxPath || "Assets/Audio/";
+    const MUSIC_PATH = cfg.musicPath || "Assets/Audios/ambient.mp3";
+    const SFX_PATH = cfg.sfxPath || "Assets/Audios/";
 
     const sfxFiles = {
         descent: SFX_PATH + "descent.wav",

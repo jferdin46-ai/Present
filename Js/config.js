@@ -29,6 +29,6 @@ window.BEYOND_CONFIG = {
   descentDuration: 5200,
 
   // Audio paths (folder name "SFX" is case-sensitive on most web servers).
-  musicPath: "Assets/Audio/ambient.mp3",
-  sfxPath: "Assets/Audio/"
+  musicPath: "Assets/Audios/ambient.mp3",
+  sfxPath: "Assets/Audios/"
 };
